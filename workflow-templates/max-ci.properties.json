@@ -1,7 +1,7 @@
 {
     "name": "Max's recommended CI",
     "description": "Max's template.",
-    "iconName": "example-icon",
+    "iconName": "azure",
     "categories": [
         "Go"
     ]
