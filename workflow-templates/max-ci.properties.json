@@ -1,0 +1,8 @@
+{
+    "name": "Max's recommended CI",
+    "description": "Max's template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+}
